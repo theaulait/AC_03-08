@@ -2,6 +2,7 @@ package nyc.c4q.theaulait;
 
 /**
  * Created by c4q-vanice on 3/8/15.
+ * Objective is to guess your fruit.
  */
 import java.util.Scanner;
 
